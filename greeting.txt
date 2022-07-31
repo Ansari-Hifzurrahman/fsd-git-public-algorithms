@@ -4,6 +4,7 @@ Chnages done after colone
 Second Chnages
 Third Change
 FourthChange
-Fifth Change From Git
+Fifth Change From Git Pull
+Sixt Change from git fetch
 
 Ansari 

@@ -1,1 +1,13 @@
 Done my task
+I am on the git.
+Chnages done after colone
+
+Second Chnages
+Third Change
+FourthChange
+Fifth Change From Git Pull
+Sixt Change from git fetch
+Ansari changes line 9
+Jarvis changes line 9
+
+Ansari 
